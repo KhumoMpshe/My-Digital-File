@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&family=Pinyon+Script&display=swap');
+
+body {
+    padding: 20px;
+    background: #e463dc;
+    color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    font-size: xx-large;
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    font-size: medium;
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.btn {
+    text-decoration: solid;
+    display: block;
+    color: black;
+    padding: 20px 10px;
+    background: white;
+    margin: 30px;
+    box-shadow: 5px 10px #d1d5da;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #5f2da4;
+    transition: 0.3s;
+}
+
+.social-icon {
+    margin: 20px;
+    cursor: pointer;
+}
+
+.social-icons {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
